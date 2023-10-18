@@ -2,3 +2,5 @@
 This is a set of python scripts to analyse climate datafiles. 
 
 <lj3g20@soton.ac.uk
+
+This code is currently in development... 
